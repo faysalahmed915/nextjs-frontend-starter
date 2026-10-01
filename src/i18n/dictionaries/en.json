@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "profile": "Profile",
+    "login": "Sign In",
+    "register": "Get Started",
+    "dashboard": "Dashboard",
+    "signOut": "Sign Out"
+  },
+  "hero": {
+    "badge": "Enterprise Production-Ready Starter",
+    "titleLine1": "Engineered for Extreme Security,",
+    "titleLine2": "Speed & Scale.",
+    "description": "A battle-tested Next.js App Router frontend architected with defense-in-depth security, shadcn/ui, Better-Auth, and strict Zod validation — built to pair seamlessly with our NestJS backend.",
+    "getStarted": "Get Started Now",
+    "exploreDocs": "Architecture & Docs",
+    "viewGithub": "View Repository"
+  },
+  "features": {
+    "sectionBadge": "Core Architecture",
+    "sectionTitle": "Built for High-Assurance Enterprise Software",
+    "sectionDesc": "Every layer is hardened against vulnerabilities, optimized for zero layout shifts, and engineered for high developer velocity.",
+    "securityTitle": "Defense-in-Depth Security",
+    "securityDesc": "Strict Content Security Policy (CSP), HSTS, anti-clickjacking frameguard, sanitization, and correlation tracing.",
+    "performanceTitle": "Blazing Turbopack Speed",
+    "performanceDesc": "Next.js App Router with Server Components, optimized font rendering, and zero unnecessary client JS bundles.",
+    "authTitle": "Better-Auth Integration",
+    "authDesc": "Session-backed security with HTTP-only cookies, OAuth social authentication, and strong password hashing.",
+    "seoTitle": "Deep SEO & OpenGraph",
+    "seoDesc": "Dynamic metadata, JSON-LD structured schemas, automatic XML sitemap, and search engine crawler directives.",
+    "backendTitle": "NestJS Ready Pairing",
+    "backendDesc": "Designed to directly consume our enterprise NestJS backend with shared DTO contracts and correlation tracing.",
+    "scaleTitle": "shadcn/ui & Tailwind v4",
+    "scaleDesc": "Fully accessible Radix UI primitives with Tailwind v4 CSS variables, dark mode, and customizable palettes."
+  },
+  "stats": {
+    "securityScore": "A+",
+    "securityScoreLabel": "Security Headers Grade",
+    "typeCoverage": "100%",
+    "typeCoverageLabel": "TypeScript Strictness",
+    "lighthouseScore": "99+",
+    "lighthouseScoreLabel": "Lighthouse Performance",
+    "productionReady": "Zero",
+    "productionReadyLabel": "Compromise Security"
+  },
+  "cta": {
+    "title": "Ready to launch your enterprise application?",
+    "desc": "Clone the starter, configure your environment, and ship with enterprise confidence in minutes.",
+    "button": "Explore Documentation"
+  },
+  "footer": {
+    "tagline": "The ultimate fullstack enterprise foundation for modern cloud web applications.",
+    "product": "Product",
+    "resources": "Resources",
+    "legal": "Legal & Compliance",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "security": "Security Policy"
+  },
+  "auth": {
+    "welcomeBack": "Welcome Back",
+    "loginSubtitle": "Sign in to access your secure enterprise workspace",
+    "createAccount": "Create an Account",
+    "registerSubtitle": "Start building on top of the most secured Next.js foundation",
+    "emailLabel": "Work Email",
+    "passwordLabel": "Password",
+    "nameLabel": "Full Name",
+    "confirmPasswordLabel": "Confirm Password",
+    "rememberMe": "Remember this device for 30 days",
+    "forgotPassword": "Forgot password?",
+    "signInBtn": "Sign In with Credentials",
+    "signUpBtn": "Create Enterprise Account",
+    "orContinueWith": "Or continue with social provider",
+    "fillDemoUser": "Demo User",
+    "fillDemoAdmin": "Demo Admin",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already registered?",
+    "termsAgree": "I agree to the Enterprise Terms of Service and Privacy Policy"
+  },
+  "contact": {
+    "title": "Contact Our Engineering Team",
+    "subtitle": "Have architectural questions or custom requirements? Send us a secure message.",
+    "name": "Full Name",
+    "email": "Business Email",
+    "category": "Inquiry Type",
+    "subject": "Subject",
+    "message": "Message / Details",
+    "sendButton": "Send Secure Inquiry",
+    "fillDemoData": "Fill Demo Inquiry",
+    "successMessage": "Your inquiry was transmitted securely. Reference ticket generated.",
+    "directContact": "Direct Channels",
+    "responseTime": "Average response time: < 2 business hours"
+  },
+  "about": {
+    "badge": "Engineering Standard",
+    "title": "Built on Principles of Zero-Trust and Precision",
+    "subtitle": "We believe modern web software should never compromise between top-tier aesthetics, developer velocity, and rigorous defensive security.",
+    "missionTitle": "Our Mission",
+    "missionDesc": "To provide development teams with an uncompromising starting point that passes rigorous SOC2, ISO27001, and OWASP audit checks out of the box while delighting users with pristine performance and design.",
+    "principlesTitle": "Guiding Principles",
+    "stackTitle": "Technology Architecture",
+    "teamTitle": "Engineered by Specialists"
+  }
+}

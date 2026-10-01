@@ -1,0 +1,107 @@
+{
+    "nav": {
+        "home": "হোম",
+        "about": "আমাদের সম্পর্কে",
+        "contact": "যোগাযোগ",
+        "profile": "প্রোফাইল",
+        "login": "সাইন ইন",
+        "register": "শুরু করুন",
+        "dashboard": "ড্যাশবোর্ড",
+        "signOut": "সাইন আউট"
+    },
+    "hero": {
+        "badge": "এন্টারপ্রাইজ প্রোডাকশন-রেডি স্টার্টার",
+        "titleLine1": "চরম নিরাপত্তা, গতি ও",
+        "titleLine2": "স্কেলের জন্য তৈরি।",
+        "description": "একটি battle-tested Next.js App Router frontend, যা defense-in-depth security, shadcn/ui, Better-Auth এবং কঠোর Zod validation অনুসরণ করে তৈরি — আমাদের NestJS backend-এর সঙ্গে নির্বিঘ্নে কাজ করার জন্য বিশেষভাবে আর্কিটেক্ট করা হয়েছে।",
+        "getStarted": "এখনই শুরু করুন",
+        "exploreDocs": "আর্কিটেকচার ও ডকুমেন্টেশন",
+        "viewGithub": "রিপোজিটরি দেখুন"
+    },
+    "features": {
+        "sectionBadge": "মূল আর্কিটেকচার",
+        "sectionTitle": "উচ্চ-নিরাপত্তার এন্টারপ্রাইজ সফটওয়্যারের জন্য তৈরি",
+        "sectionDesc": "প্রতিটি লেয়ার vulnerability প্রতিরোধে শক্তিশালী করা হয়েছে, zero layout shift-এর জন্য অপ্টিমাইজ করা হয়েছে এবং দ্রুত ও কার্যকর ডেভেলপমেন্টের জন্য ইঞ্জিনিয়ার করা হয়েছে।",
+        "securityTitle": "Defense-in-Depth Security",
+        "securityDesc": "কঠোর Content Security Policy (CSP), HSTS, anti-clickjacking frameguard, sanitization এবং correlation tracing।",
+        "performanceTitle": "দ্রুতগতির Turbopack",
+        "performanceDesc": "Server Components, optimized font rendering এবং অপ্রয়োজনীয় client-side JavaScript bundle ছাড়াই Next.js App Router।",
+        "authTitle": "Better-Auth Integration",
+        "authDesc": "HTTP-only cookies, OAuth social authentication এবং শক্তিশালী password hashing-এর মাধ্যমে session-backed security।",
+        "seoTitle": "উন্নত SEO ও OpenGraph",
+        "seoDesc": "Dynamic metadata, JSON-LD structured schemas, automatic XML sitemap এবং search engine crawler directives।",
+        "backendTitle": "NestJS-এর জন্য প্রস্তুত",
+        "backendDesc": "Shared DTO contracts এবং correlation tracing-এর মাধ্যমে আমাদের enterprise NestJS backend-এর সঙ্গে সরাসরি কাজ করার জন্য ডিজাইন করা হয়েছে।",
+        "scaleTitle": "shadcn/ui ও Tailwind v4",
+        "scaleDesc": "Tailwind v4 CSS variables, dark mode এবং customizable palettes-সহ সম্পূর্ণ accessible Radix UI primitives।"
+    },
+    "stats": {
+        "securityScore": "A+",
+        "securityScoreLabel": "Security Headers Grade",
+        "typeCoverage": "100%",
+        "typeCoverageLabel": "TypeScript Strictness",
+        "lighthouseScore": "99+",
+        "lighthouseScoreLabel": "Lighthouse Performance",
+        "productionReady": "Zero",
+        "productionReadyLabel": "Security Compromise"
+    },
+    "cta": {
+        "title": "আপনার এন্টারপ্রাইজ অ্যাপ্লিকেশন চালু করতে প্রস্তুত?",
+        "desc": "স্টার্টার ক্লোন করুন, আপনার environment কনফিগার করুন এবং কয়েক মিনিটের মধ্যেই enterprise-level confidence-এর সঙ্গে আপনার অ্যাপ্লিকেশন ডেলিভার করুন।",
+        "button": "ডকুমেন্টেশন দেখুন"
+    },
+    "footer": {
+        "tagline": "আধুনিক cloud web application-এর জন্য একটি সম্পূর্ণ fullstack enterprise foundation।",
+        "product": "প্রোডাক্ট",
+        "resources": "রিসোর্স",
+        "legal": "আইনি ও কমপ্লায়েন্স",
+        "rights": "সর্বস্বত্ব সংরক্ষিত।",
+        "privacy": "গোপনীয়তা নীতি",
+        "terms": "সেবার শর্তাবলি",
+        "security": "নিরাপত্তা নীতি"
+    },
+    "auth": {
+        "welcomeBack": "আবারও স্বাগতম",
+        "loginSubtitle": "আপনার নিরাপদ enterprise workspace-এ প্রবেশ করতে সাইন ইন করুন",
+        "createAccount": "অ্যাকাউন্ট তৈরি করুন",
+        "registerSubtitle": "সবচেয়ে নিরাপদ Next.js foundation-এর ওপর আপনার প্রজেক্ট তৈরি শুরু করুন",
+        "emailLabel": "কর্মক্ষেত্রের ইমেইল",
+        "passwordLabel": "পাসওয়ার্ড",
+        "nameLabel": "পূর্ণ নাম",
+        "confirmPasswordLabel": "পাসওয়ার্ড নিশ্চিত করুন",
+        "rememberMe": "৩০ দিনের জন্য এই ডিভাইসটি মনে রাখুন",
+        "forgotPassword": "পাসওয়ার্ড ভুলে গেছেন?",
+        "signInBtn": "Credentials দিয়ে সাইন ইন করুন",
+        "signUpBtn": "Enterprise অ্যাকাউন্ট তৈরি করুন",
+        "orContinueWith": "অথবা social provider দিয়ে চালিয়ে যান",
+        "fillDemoUser": "Demo User",
+        "fillDemoAdmin": "Demo Admin",
+        "dontHaveAccount": "অ্যাকাউন্ট নেই?",
+        "alreadyHaveAccount": "ইতোমধ্যে নিবন্ধিত?",
+        "termsAgree": "আমি Enterprise Terms of Service এবং Privacy Policy-তে সম্মত"
+    },
+    "contact": {
+        "title": "আমাদের Engineering Team-এর সঙ্গে যোগাযোগ করুন",
+        "subtitle": "আর্কিটেকচার নিয়ে কোনো প্রশ্ন বা custom requirement আছে? আমাদের একটি নিরাপদ বার্তা পাঠান।",
+        "name": "পূর্ণ নাম",
+        "email": "ব্যবসায়িক ইমেইল",
+        "category": "জিজ্ঞাসার ধরন",
+        "subject": "বিষয়",
+        "message": "বার্তা / বিস্তারিত",
+        "sendButton": "নিরাপদ জিজ্ঞাসা পাঠান",
+        "fillDemoData": "Demo Inquiry পূরণ করুন",
+        "successMessage": "আপনার জিজ্ঞাসাটি নিরাপদভাবে পাঠানো হয়েছে। একটি reference ticket তৈরি করা হয়েছে।",
+        "directContact": "সরাসরি যোগাযোগের মাধ্যম",
+        "responseTime": "গড়ে ২ ঘণ্টার কম business hours-এর মধ্যে উত্তর দেওয়া হয়"
+    },
+    "about": {
+        "badge": "Engineering Standard",
+        "title": "Zero-Trust ও Precision-এর নীতির ওপর তৈরি",
+        "subtitle": "আমরা বিশ্বাস করি, আধুনিক web software-এর ক্ষেত্রে উন্নতমানের aesthetics, developer velocity এবং কঠোর defensive security-এর মধ্যে কোনো আপস করা উচিত নয়।",
+        "missionTitle": "আমাদের লক্ষ্য",
+        "missionDesc": "Development team-গুলোর জন্য এমন একটি uncompromising starting point প্রদান করা, যা শুরু থেকেই কঠোর SOC2, ISO27001 এবং OWASP audit checks পূরণ করতে সক্ষম এবং একইসঙ্গে অসাধারণ performance ও design-এর মাধ্যমে ব্যবহারকারীদের উন্নত অভিজ্ঞতা প্রদান করে।",
+        "principlesTitle": "আমাদের মূলনীতি",
+        "stackTitle": "Technology Architecture",
+        "teamTitle": "বিশেষজ্ঞদের দ্বারা নির্মিত"
+    }
+}
